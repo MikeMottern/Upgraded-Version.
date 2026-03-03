@@ -1,2 +1,2 @@
 # Upgraded-Version.
-Release new features, bug fixes, and improvements.
+Release new features, bug fixes, and improvements. 
